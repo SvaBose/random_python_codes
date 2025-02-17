@@ -1,2 +1,2 @@
 # random_python_codes
-random python projects over the years
+This repo is just a compilation of random python projects which I have programmed over the years. 
